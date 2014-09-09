@@ -7,7 +7,7 @@
 
 typedef char bool;
 
-/*first*/
+/*first */
 
 void cls()
 {
